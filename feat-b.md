@@ -1,3 +1,0 @@
-# B title
-
-B subtitle
