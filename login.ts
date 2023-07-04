@@ -10,3 +10,7 @@ function login() {
 function afterLogin() {
   console.log('do something')
 }
+
+function saveUserInfo() {
+  console.log('save user info')
+}
